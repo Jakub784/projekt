@@ -98,6 +98,26 @@ sample_movies = {
         {'title': 'It Follows', 'year': 2014, 'rating': 6.8, 'imdb_url': 'https://www.imdb.com/title/tt3239776/'},
         {'title': 'The Conjuring 2', 'year': 2016, 'rating': 7.3, 'imdb_url': 'https://www.imdb.com/title/tt3065204/'},
         {'title': 'The Ring', 'year': 2002, 'rating': 7.1, 'imdb_url': 'https://www.imdb.com/title/tt0298130/'}
+    ],
+    'sci-fi': [
+    {'title': 'Blade Runner 2049', 'year': 2017, 'rating': 8.0, 'imdb_url': 'https://www.imdb.com/title/tt1856101/'},
+    {'title': 'Inception', 'year': 2010, 'rating': 8.8, 'imdb_url': 'https://www.imdb.com/title/tt1375666/'},
+    {'title': 'Interstellar', 'year': 2014, 'rating': 8.6, 'imdb_url': 'https://www.imdb.com/title/tt0816692/'},
+    {'title': 'Star Wars: A New Hope', 'year': 1977, 'rating': 8.6, 'imdb_url': 'https://www.imdb.com/title/tt0076759/'},
+    {'title': 'The Matrix', 'year': 1999, 'rating': 8.7, 'imdb_url': 'https://www.imdb.com/title/tt0133093/'},
+    {'title': 'The Terminator', 'year': 1984, 'rating': 8.0, 'imdb_url': 'https://www.imdb.com/title/tt0088247/'},
+    {'title': '2001: A Space Odyssey', 'year': 1968, 'rating': 8.3, 'imdb_url': 'https://www.imdb.com/title/tt0062622/'},
+    {'title': 'Ex Machina', 'year': 2014, 'rating': 7.7, 'imdb_url': 'https://www.imdb.com/title/tt0470752/'}
+    ],
+    'thriller': [
+    {'title': 'Seven', 'year': 1995, 'rating': 8.6, 'imdb_url': 'https://www.imdb.com/title/tt0114369/'},
+    {'title': 'Shutter Island', 'year': 2010, 'rating': 8.2, 'imdb_url': 'https://www.imdb.com/title/tt1130884/'},
+    {'title': 'The Sixth Sense', 'year': 1999, 'rating': 8.1, 'imdb_url': 'https://www.imdb.com/title/tt0167404/'},
+    {'title': 'Gone Girl', 'year': 2014, 'rating': 8.1, 'imdb_url': 'https://www.imdb.com/title/tt2267998/'},
+    {'title': 'The Prestige', 'year': 2006, 'rating': 8.5, 'imdb_url': 'https://www.imdb.com/title/tt0482571/'},
+    {'title': 'Prisoners', 'year': 2013, 'rating': 8.1, 'imdb_url': 'https://www.imdb.com/title/tt1392214/'},
+    {'title': 'Fight Club', 'year': 1999, 'rating': 8.8, 'imdb_url': 'https://www.imdb.com/title/tt0137523/'},
+    {'title': 'Memento', 'year': 2000, 'rating': 8.4, 'imdb_url': 'https://www.imdb.com/title/tt0209144/'}
     ]
 }
 
